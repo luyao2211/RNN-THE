@@ -10,7 +10,7 @@ Directly run "testingCommand.bat"
 
 "./pseudo-HE and nonsecure SRNN.exe" 9 0
 
-"./pseudo-HE and nonsecure RNN.exe" 9 0)
+"./pseudo-HE and nonsecure RNN.exe" 9 0
 
 The first number indicates the number of training-testing sets (by default 9 means 10 training-testing sets), the second number indicates the hyperparameter of l2-regularization. Then, four files named like "Convergence_RNN0_0.000000.csv", "Convergence_SRNN0_0.000000.csv", "Result_RNN0_0.000000.csv", "Result_SRNN0_0.000000.csv" will appear at "D:\".
 
